@@ -9,7 +9,7 @@ In this project, java programming language, NetBeans, and Wireshark are used. Ne
 RSA stands for Rivest-Shamir-Adleman which used for encrypting and decrypting data using asymmetric keys. AES stands for Advanced Encryption Standard which used for encrypting and decrypting data using symmetric keys. MD5 stands for Message Digest Algorithm which used to create a hash. Hashing is one-way encryption. [2]
 
 # Full Documentation 
-The pdf file has the full documentation about the project
+The pdf file has full documentation about the project
 
 # Tabel of Contents
-![Image of Yaktocat](https://raw.githubusercontent.com/qumasi/Instant-Messaging-Program/master/Table%20of%20Contents.PNG?token=AOSWF5WVTCH5LZRIHBEO3D26JM7L4)
+![Image of Yaktocat](/master/Table%20of%20Contents.PNG?token=AOSWF5WVTCH5LZRIHBEO3D26JM7L4)
