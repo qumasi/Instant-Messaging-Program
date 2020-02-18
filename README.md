@@ -12,4 +12,4 @@ RSA stands for Rivest-Shamir-Adleman which used for encrypting and decrypting da
 The pdf file has full documentation about the project
 
 # Tabel of Contents
-![Image of Yaktocat](master/Table%20of%20Contents.PNG?token=AOSWF5WVTCH5LZRIHBEO3D26JM7L4)
+![Image of Yaktocat](https://raw.githubusercontent.com/qumasi/Instant-Messaging-Program/master/Table%20of%20Contents.PNG?token=AOSWF5WVTCH5LZRIHBEO3D26JM7L4)
