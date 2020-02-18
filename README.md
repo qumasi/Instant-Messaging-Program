@@ -13,4 +13,4 @@ The pdf file has full documentation about the project
 # Screenshot
 ![Image of Yaktocat](https://github.com/qumasi/Instant-Messaging-Program/blob/master/Login%20Page.png)
 # Tabel of Contents
-![Image of Yaktocat](https://raw.githubusercontent.com/qumasi/Instant-Messaging-Program/master/Table%20of%20Contents.PNG?token=AOSWF5WVTCH5LZRIHBEO3D26JM7L4)
+![Image of Yaktocat](https://github.com/qumasi/Instant-Messaging-Program/blob/master/Table%20of%20Contents.PNG)
